@@ -6,7 +6,7 @@ Inspired by [react-native-shadow-generator], this Library provides a simple way 
 
 ```typescript
 import {StyleSheet} from 'react-native';
-import shadow from '@blackplate/shadow';
+import shadow from '@blackplate/react-native-shadow-adapter';
 
 const styles = StyleSheet.create({
   container: {
