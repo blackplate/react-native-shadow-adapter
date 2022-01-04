@@ -22,7 +22,7 @@
     "shadow",
     "adapter"
   ],
-  "author": "",
+  "author": "Dawid van der Hoven",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/blackplate/react-native-shadow-adapter/issues"
@@ -39,5 +39,8 @@
     "ts-jest": "^27.1.2",
     "typescript": "^4.5.4",
     "semantic-release": "^18.0.1"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
