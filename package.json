@@ -1,6 +1,6 @@
 {
   "name": "@blackplate/react-native-shadow-adapter",
-  "version": "1.0.0",
+  "version": "0.0.0-development",
   "description": "A react native utility library to have the same shadows on iOS and Android",
   "main": "./lib/index.js",
   "types": "./lib/index.d.ts",
@@ -17,7 +17,11 @@
     "type": "git",
     "url": "git+https://github.com/blackplate/react-native-shadow-adapter.git"
   },
-  "keywords": ["react-native", "shadow", "adapter"],
+  "keywords": [
+    "react-native",
+    "shadow",
+    "adapter"
+  ],
   "author": "",
   "license": "ISC",
   "bugs": {
@@ -33,6 +37,7 @@
     "jest": "^27.4.5",
     "prettier": "^2.5.1",
     "ts-jest": "^27.1.2",
-    "typescript": "^4.5.4"
+    "typescript": "^4.5.4",
+    "semantic-release": "^18.0.1"
   }
 }
